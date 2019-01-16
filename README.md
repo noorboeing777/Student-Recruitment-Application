@@ -16,7 +16,8 @@ Build front-end from scratch. In this app student can find institutes and can al
 Students can submit a eligiblity form.
 App is mobile friendly
 
-This is the link to Web Application mystudentcounsellor.com but it is offline until 18th Jan 2019 as im undergoing some updates and features modifications
+This is the link to Web Application www.mystudentcounsellor.com 
+but it is offline until 18th Jan 2019 as im undergoing some updates and features modifications
 
 Mean while below are some screenshots of web App.
 I cannot post screenshot of amdin panel as per company policy I can only show public contents
